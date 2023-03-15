@@ -29,8 +29,8 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-reward-points-extension.html
-- Frontend demo : https://magento2.demo.magetop.com/demo-full/men/tops-men.html
-- Backend demo : https://magento2.demo.magetop.com/demo-full/admin
+- Frontend demo : https://demo.magetop.com/demo-full/men/tops-men.html
+- Backend demo : https://demo.magetop.com/demo-full/admin
 
 ## Support & contact info
 
